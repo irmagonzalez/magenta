@@ -86,11 +86,11 @@ magenta/
 git clone https://github.com/fjbalvino/magenta.git
 cd magenta
 
-# Opción A: conda (recomendado)
+# Option A: conda (recomendado)
 conda env create -f environment.yml
 conda activate magenta
 
-# Opción B: venv + pip (necesitarás fastqc/megahit/spades instalados por tu cuenta)
+# Option B: venv + pip ((you will need to have fastqc/megahit/spades iinstalled separately)
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
