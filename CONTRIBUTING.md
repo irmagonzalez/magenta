@@ -1,17 +1,19 @@
-# Contribuir a MAGENTA
+# Contributing to MAGENTA
 
-¡Gracias por tu interés!
+Thank you for your interest!
 
-## Requisitos
+## Requirements
 - Python 3.10+
-- `fastqc`, `megahit` y/o `spades.py` disponibles en `PATH` (instalable con conda).
+- `fastqc`, `megahit`, and/or `spades.py` available in your `PATH` (installable via conda).
 
-## Estilo
-- Formato: [Black](https://black.readthedocs.io/) y [Flake8](https://flake8.pycqa.org/).
-- Tipado recomendado con `mypy` si agregas módulos nuevos.
+
+## Style
+- Formatting: [Black](https://black.readthedocs.io/) and [Flake8](https://flake8.pycqa.org/).
+- Typing is recommended with `mypy` if you add new modules.
 
 ## Pull Requests
-1. Crea una rama descriptiva: `feat/descarga-async`.
-2. Agrega pruebas o ejemplos mínimos si aplican.
-3. Ejecuta `pytest` (si añadiste tests).
-4. Abre el PR con un resumen claro del cambio.
+1. Create a descriptive branch: `feat/async-download`.
+2. Add tests or minimal examples when applicable.
+3. Run `pytest` (if you added tests).
+4. Open the PR with a clear summary of the changes.
+
