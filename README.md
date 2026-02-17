@@ -9,12 +9,12 @@
 
 ---
 
-## 🌍 Descripción
+## 🌍 Description
 
-Los manglares son una conocida reserva de diversidad biológica y un ecosistema altamente productivo.  
-Diversos estudios metagenómicos en diferentes partes del mundo han reconocido a la comunidad microbiana del manglar como un agente importante dentro de los ciclos biogeoquímicos, en los cuales se llevan a cabo procesos tales como la transformación del carbono, la fotosíntesis, la fijación de nitrógeno y la reducción de azufre.  
+Mangroves are important reservoirs of biological diversity and highly productive ecosystems.
+Several metagenomic studies conducted worldwide have identified mangrove microbial communities as key agents in biogeochemical cycles, where processes such as carbon transformation, photosynthesis, nitrogen fixation, and sulfur reduction occur.
 
-En la actualidad, sin embargo, no contamos con una herramienta informática que nos permita entender estos procesos y relaciones a una **escala global**.
+However, there is currently no computational tool that allows us to understand these processes and their interactions at **a global scale**.
 
 **MAGENTA** (o *Global MAngrove GENe CaTAlogue*) actúa como un catálogo global de genes únicos y no redundantes a nivel de especie (agrupados al 95% de identidad de nucleótidos). A partir de datos disponibles en bases de acceso público (WGS, metagenomas de acceso público – ENA) y considerando cinco de los principales hábitats microbianos del manglar (**rizosfera, agua de mar, sedimento, suelo y humedal**), MAGENTA busca formular nuevas hipótesis sobre la abundancia, distribución y funciones metabólicas de los microorganismos en este ecosistema.
 
