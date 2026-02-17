@@ -16,7 +16,7 @@ Diversos estudios metagenómicos en diferentes partes del mundo han reconocido a
 
 En la actualidad, sin embargo, no contamos con una herramienta informática que nos permita entender estos procesos y relaciones a una **escala global**.
 
-**MAGENTA** (o *Global MAngrove GENe CaTAlogue*) actúa como un catálogo global de genes únicos y no redundantes a nivel de especie (agrupados al 95% de identidad de nucleótidos). A partir de datos disponibles en bases de acceso público (WGS, metagenomas de acceso público – ENA) y considerando cinco de los principales hábitats microbianos del manglar (**rizosfera, agua de mar, sedimento, suelo y humedal**), MAGENTA busca formular nuevas hipótesis sobre la abundancia, distribución y funciones metabólicas de los microorganismos en este ecosistema.
+**MAGENTA** (or Global MAngrove GENe CaTAlogue) serves as a global catalog of unique, non-redundant genes at the species level (clustered at 95% nucleotide identity). It is built from publicly available datasets (WGS and public-access metagenomes from ENA) and considers five major mangrove microbial habitats (**rhizosphere, seawater, sediment, soil, and wetland**). MAGENTA aims to generate new hypotheses about the abundance, distribution, and metabolic functions of microorganisms in this ecosystem.
 
 ---
 
