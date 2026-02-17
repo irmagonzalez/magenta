@@ -11,14 +11,14 @@ LOGS_DIR ?= logs
 help:
 	@echo "Targets:"
 	@echo "  setup                Create folders"
-	@echo "  fetch_mangrove       Buscar metadatos de manglar"
-	@echo "  fetch_non_mangrove   Buscar metadatos de no-manglar"
-	@echo "  download_mangrove    Descargar/convertir datos de manglar"
-	@echo "  download_non_mangroveDescargar/convertir datos de no-manglar"
-	@echo "  fastqc               Correr FastQC en paralelo"
-	@echo "  assemble             Ensamblar (MEGAHIT o MetaSPAdes)"
-	@echo "  qc                   (placeholder) MultiQC si está disponible"
-	@echo "  all                  Flujo completo"
+	@echo "  fetch_mangrove       Fetch mangrove metadata"
+	@echo "  fetch_non_mangrove   Fetch non-mangrove metadata"
+	@echo "  download_mangrove    Download/convert mangrove data"
+	@echo "  download_non_mangroveDDownload/convert non-mangrove data"
+	@echo "  fastqc               Run FastQC in parallel"
+	@echo "  assemble             Assemble (MEGAHIT or MetaSPAdes)"
+	@echo "  qc                   (placeholder) MultiQC if available"
+	@echo "  all                  Full workflow"
 
 setup:
 	mkdir -p $(DATA_DIR) $(RESULTS_DIR) $(LOGS_DIR)
