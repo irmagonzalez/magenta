@@ -86,7 +86,7 @@ magenta/
 git clone https://github.com/fjbalvino/magenta.git
 cd magenta
 
-# Option A: conda (recomendado)
+# Option A: conda (recommended)
 conda env create -f environment.yml
 conda activate magenta
 
