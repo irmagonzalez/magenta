@@ -1,11 +1,12 @@
-# Ejemplos de uso
+# Usage Examples
 
-- Ejecutar solo descarga para muestras de manglar:
+- Run download only for mangrove samples:
+
 ```bash
 make download_mangrove
 ```
+- Change data/results directories (default: `data/` and `results/`):
 
-- Cambiar directorios de datos/resultados (por defecto `data/` y `results/`):
 ```bash
 make RESULTS_DIR=custom_results fastqc
 ```
