@@ -11,7 +11,7 @@ LOGS_DIR ?= logs
 help:
 	@echo "Targets:"
 	@echo "  setup                Create folders"
-	@echo "  fetch_mangrove       Buscar metadatos de manglar"
+	@echo "  fetch_mangrove       Fetch mangrove metadata"
 	@echo "  fetch_non_mangrove   Buscar metadatos de no-manglar"
 	@echo "  download_mangrove    Descargar/convertir datos de manglar"
 	@echo "  download_non_mangroveDescargar/convertir datos de no-manglar"
